@@ -118,7 +118,7 @@ Response 200 (application/json)
 }
 ```
 
-#### Excluir Escola [PUT]
+#### Excluir Escola [DELETE]
 
 Rota: /escolas/id
 
@@ -221,7 +221,7 @@ Response 200 (application/json)
 }
 ```
 
-#### Excluir Turma [PUT]
+#### Excluir Turma [DELETE]
 
 Rota: /turmas/id
 
@@ -323,7 +323,7 @@ Response 200 (application/json)
 }
 ```
 
-#### Excluir Aluno [PUT]
+#### Excluir Aluno [DELETE]
 
 Rota: /alunos/id
 
