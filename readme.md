@@ -1,6 +1,6 @@
 # TesteNodeApi
 
-Essa API é utilizada para gerenciar um ambientes escolares.
+Essa API é utilizada para gerenciar ambientes escolares.
 
 O Projeto foi desenvolvido em NodeJs e MongoDB.
 
@@ -24,7 +24,7 @@ As requisições da api seguem o seguinte padrão:
 | Código | Descrição|
 |--------|----------|
 |200	 | Requisição executada com sucesso (success). |
-|404     | Recurso não encontrado |
+|404     | Recurso não encontrado. |
 |500     | Ocorreu um erro em nossa aplicação (falha). |
 
 ## Recursos
